@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to right,rgb(47, 47, 47) , rgb(68, 68, 68));
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color: rgb(196, 132, 48);
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+ul li a {
+    font-size: 25px;
+    color: rgb(196, 132, 48)!important;
+    font-weight: 600;
+    border: 2px solid;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.btn{
+    color: rgb(196, 132, 48);
+}
